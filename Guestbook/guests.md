@@ -24,4 +24,8 @@ Message: I'm on stream with the SOC100 crew right now! They rock!
 
 ---
 
+Name: Ryan
 
+Date: 03/08/2025
+
+Message: Learning how to be super rad using Git with Level Effect!
