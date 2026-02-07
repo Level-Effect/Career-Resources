@@ -6,6 +6,6 @@ This is a safe space area for you to make your first PR by "signing the guestboo
 
 Add to the file "guests.md" in markdown format under the latest entry that is there
 
-- Name: Name or Online Handle
-- Date: (MM/DD/YY)
-- Message: A note to leave about your time studying with us or if you're just passing by
+- Name: fast.sloth
+- Date: (02/06/26)
+- Messagee:  SOC100-5  Bullet complete
