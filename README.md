@@ -39,6 +39,7 @@ We’re building an “Interview Prep” guide that’s relevant and up to date.
 2. **Interview Strategies**  
    - Tips for phone screens, in-person interviews, or virtual interviews.  
    - **Resume advice**: how to tailor your resume for specific roles.  
+   - **Job-search tools**: [JobEmerge](https://www.jobemerge.work) is a freemium AI career copilot with a job-fit test, resume translation, and a Markdown resume editor.
    - **Portfolio/GitHub strategies**: how to showcase your projects and skills.  
    - **Negotiation advice**: how to discuss salary, benefits, and more.
 
